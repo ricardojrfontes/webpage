@@ -36,6 +36,8 @@ params:
     - r
     - yaml
   highlightjsTheme: github
+  site_logo: /logo.png/
+
   highlightjsVersion: 9.12.0
   logo:
     alt: home
