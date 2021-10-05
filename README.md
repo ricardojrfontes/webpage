@@ -1,2 +1,2 @@
 # webpage
-Webpage data
+Personal webpage hosted at netlify. Visit https://ricardofontes.netlify.app/.
