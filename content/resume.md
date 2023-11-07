@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 author: ''
-date: '2021-09-27'
+date: '2023-11-06'
 slug: resume
 categories: []
 tags: []
@@ -9,7 +9,9 @@ tags: []
 
 ## Education
 
--   M.A. Economics, FGV-RJ/EPGE, 2021-2022 (expected),
+-   Ph.D. Economics, University of California, Santa Barbara, 2023-2029 (expected),
+
+-   M.A. Economics, FGV-RJ/EPGE, 2021-2023,
 
 -   B.S. Economics, FEA/Universidade de São Paulo, 2015-2019,
 
@@ -31,7 +33,7 @@ tags: []
 
 ## Softwares and developing tools
 
-R, LaTeX, Markdown, SQL, Python, Matlab, VBA, MS Office.
+R, Julia, LaTeX, Markdown, SQL, Python, Matlab, VBA, MS Office.
 
 ## Courses and Activities
 
