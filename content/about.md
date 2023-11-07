@@ -12,6 +12,7 @@ You can find my Resume and contact information below.
 **Contact Information**
 
 - E-mail: ramosfontes@ucsb.edu or ricardo.fontes@alumni.usp.br
+- [Student Page](https://econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes)
 - [Curriculum Vitae](/resume/)
 - [Lattes](http://lattes.cnpq.br/7318145447711838)
 
