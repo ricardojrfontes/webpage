@@ -1,5 +1,5 @@
 ---
-title: Ricardo José R. Fontes
+title: Ricardo J. Ramos Fontes
 ---
 
 <img src="/content/images/professional_pic.jpg/" style="max-width:25%;min-width:40px;float:right;" alt="Foto" />
