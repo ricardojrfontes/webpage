@@ -2,7 +2,7 @@
 title: Ricardo J. Ramos Fontes
 ---
 
-<img src="/content/images/professional_pic.jpg/" style="max-width:25%;min-width:20px;float:left;" alt="Foto" />
+<img src="/content/images/professional_pic.jpg/" style="max-width:20%;min-width:20px;float:left;" alt="Foto" />
 
 I’m a Ph.D. student in economics at the University of California, Santa Barbara. I earned an MA in Economics at EPGE - Brazilian School of Economics and Finance. 
 
