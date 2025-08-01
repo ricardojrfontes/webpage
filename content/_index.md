@@ -8,7 +8,6 @@ title: Ricardo J. Ramos Fontes
 
   <div style="flex: 1; min-width: 250px;">
     I'm a Ph.D. student in economics at the University of California, Santa Barbara. I earned an MA in Economics at EPGE - Brazilian School of Economics and Finance.
-    
     My main research interests are Environmental and Agricultural Economics, Industrial Organization, Econometrics, Finance, and Applied Microeconomics in general.
     
   </div>
