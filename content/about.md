@@ -5,7 +5,7 @@ title: About
 
 I’m a Ph.D. student in economics at the University of California, Santa Barbara. I earned an MA in Economics from Fundação Getúlio Vargas - Brazilian School of Economics and Finance (EPGE/FGV-RJ), in Rio de Janeiro, Brazil.
 
-My main research interests are Environmental and Agricultural Economics, Industrial Organization, Econometrics, Finance, and Applied Microeconomics in general.
+My main research interests are Environmental, Energy, and Agricultural Economics, Industrial Organization, Econometrics, Finance, and Applied Microeconomics in general.
 
 You can find my Resume and contact information below.
 
